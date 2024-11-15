@@ -1,0 +1,12 @@
+train: /content/dataset/images/train
+val: /content/dataset/labels/val
+test: 
+
+nc: 6
+names:  # List of class names
+  - truck
+  - car
+  - person
+  - garbage can
+  - bicycle
+  - motorcycle
